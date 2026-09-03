@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi! I'm Morteza 👋
 
-<!--
-**Morteza-Rahmani-2005/Morteza-Rahmani-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I’m Morteza Rahmani, a Front-End Developer focused on building modern, responsive, and user-centered interfaces. With an educational background in Graphic Design, I entered the world of web development, and this combination of design and programming helps me better understand user experience and UI details in the projects I work on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+For more than three years, I have been continuously learning and improving my front-end development skills. During this time, I have also gained one year of experience working in a professional team environment, where I focused on implementing clean, optimized, and maintainable user interfaces while following front-end development best practices.
+
+
+
+Currently, I work with technologies such as HTML, CSS, JavaScript, React.js, Tailwind CSS, and Bootstrap. I also have basic experience with TypeScript and Next.js. I’m passionate about continuous learning and staying up to date with modern tools and technologies to build high-quality user experiences and high-performance web applications.
+
+---
+
+## 🛠️ Skills
+
+- HTML  
+- CSS  
+- JavaScript  
+- Tailwind CSS
+- Bootstrap 
+- React.js
+- TypeScript
+- Next.js
+- MongoDB
+- Git
+
+---
+
+## 📫 Contact Me
+
+- Email: (mailto:mortezarahman.2005afg@gmail.com)
+- Linkedin (https://www.linkedin.com/in/m-rahmani-1039a537a/)
+- 
+
