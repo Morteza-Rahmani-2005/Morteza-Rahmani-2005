@@ -23,7 +23,7 @@ I enjoy turning ideas and designs into clean, maintainable, and responsive web a
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### Tools
@@ -38,8 +38,7 @@ I enjoy turning ideas and designs into clean, maintainable, and responsive web a
 
 * Deepening my **JavaScript & TypeScript** knowledge
 * Building more advanced applications with **React & Next.js**
-* Learning **Node.js & MongoDB**
-* Improving my understanding of **Web Performance, SEO, and UI/UX**
+* Learning **MongoDB**
 
 ---
 
