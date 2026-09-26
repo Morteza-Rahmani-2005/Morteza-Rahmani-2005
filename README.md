@@ -23,7 +23,7 @@ I enjoy turning ideas and designs into clean, maintainable, and responsive web a
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
 ### Tools
@@ -34,23 +34,55 @@ I enjoy turning ideas and designs into clean, maintainable, and responsive web a
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Goals & Continuous Learning
 
-* Deepening my **JavaScript & TypeScript** knowledge
-* Building more advanced applications with **React & Next.js**
-* Learning **MongoDB**
+I believe that becoming a better developer is a continuous journey.
+I’m constantly working on improving my technical knowledge, strengthening my fundamentals, and expanding my skills.
+
+### 📚 Currently Learning & Improving
+
+* 🇬🇧 **English** — Improving my communication skills and technical vocabulary.
+* 🟦 **TypeScript** — Deepening my understanding of advanced concepts and type-safe development.
+* ⚛️ **Next.js** — Exploring advanced concepts, architecture, performance, and best practices.
+* 🟨 **JavaScript** — Strengthening my fundamentals and understanding advanced JavaScript concepts.
+* 🐍 **Python** — Building a strong foundation and expanding my programming knowledge.
+
+### 🚀 Long-Term Goals
+
+* Become a stronger and more well-rounded **Front-End Developer**.
+* Build a deeper understanding of programming fundamentals and software architecture.
+* Create production-ready applications using modern web technologies.
+* Improve my **English communication skills**.
+* Continuously learn, build, experiment, and grow as a developer.
 
 ---
 
-## 🚀 What I Care About
+## 💡 What I Care About
 
-* ✨ Clean and modern UI
+* ✨ Clean & Modern UI
 * 📱 Responsive Web Design
 * 🧩 Reusable Components
 * ⚡ Performance
 * 🧹 Clean & Maintainable Code
 * 🎨 UI/UX
 * 📚 Continuous Learning
+
+---
+
+## 🚀 Featured Projects
+
+I’m continuously working on personal and professional projects to strengthen my skills and explore new technologies.
+
+<!-- Add your best projects here -->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Morteza-Rahmani-2005&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Rahmani-2005&layout=compact&hide_border=true" height="165" />
+</p>
 
 ---
 
