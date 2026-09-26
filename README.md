@@ -23,7 +23,7 @@ I enjoy turning ideas and designs into clean, maintainable, and responsive web a
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### Tools
