@@ -1,37 +1,73 @@
-# Hi! I'm Morteza 👋
+# Hi, I'm Morteza 👋
 
-## 👨‍💻 About Me
+### Front-End Developer | React • Next.js • TypeScript
 
-I’m Morteza Rahmani, a Front-End Developer focused on building modern, responsive, and user-centered interfaces. With an educational background in Graphic Design, I entered the world of web development, and this combination of design and programming helps me better understand user experience and UI details in the projects I work on.
+I’m **Morteza Rahmani**, a Front-End Developer passionate about building modern, responsive, and user-centered web interfaces.
 
+With an educational background in **Graphic Design**, I combine visual design principles with programming to create interfaces that are both functional and visually engaging.
 
+I’ve been continuously learning and improving my front-end development skills for **more than three years**, including **one year of professional experience** working in a team environment.
 
-For more than three years, I have been continuously learning and improving my front-end development skills. During this time, I have also gained one year of experience working in a professional team environment, where I focused on implementing clean, optimized, and maintainable user interfaces while following front-end development best practices.
-
-
-
-Currently, I work with technologies such as HTML, CSS, JavaScript, React.js, Tailwind CSS, and Bootstrap. I also have basic experience with TypeScript and Next.js. I’m passionate about continuous learning and staying up to date with modern tools and technologies to build high-quality user experiences and high-performance web applications.
+I enjoy turning ideas and designs into clean, maintainable, and responsive web applications while continuously exploring modern technologies and best practices.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- HTML  
-- CSS  
-- JavaScript  
-- Tailwind CSS
-- Bootstrap 
-- React.js
-- TypeScript
-- Next.js
-- MongoDB
-- Git
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📚 Currently Learning
 
-- Email: (mailto:mortezarahman.2005afg@gmail.com)
-- Linkedin (https://www.linkedin.com/in/m-rahmani-1039a537a/)
-- 
+* Deepening my **JavaScript & TypeScript** knowledge
+* Building more advanced applications with **React & Next.js**
+* Learning **Node.js & MongoDB**
+* Improving my understanding of **Web Performance, SEO, and UI/UX**
 
+---
+
+## 🚀 What I Care About
+
+* ✨ Clean and modern UI
+* 📱 Responsive Web Design
+* 🧩 Reusable Components
+* ⚡ Performance
+* 🧹 Clean & Maintainable Code
+* 🎨 UI/UX
+* 📚 Continuous Learning
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:mortezarahman.2005afg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-rahmani-1039a537a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. 🚀</i>
+</p>
