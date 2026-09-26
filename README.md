@@ -77,15 +77,6 @@ I’m continuously working on personal and professional projects to strengthen m
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morteza-Rahmani-2005&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Rahmani-2005&layout=compact&theme=transparent&hide_border=true" width="41%" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
