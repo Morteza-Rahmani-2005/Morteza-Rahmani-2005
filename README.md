@@ -28,11 +28,10 @@ I enjoy turning ideas and designs into clean, maintainable, and responsive web a
 
 ### Tools
 
-### Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm" />
 </p>
+
 
 ---
 
