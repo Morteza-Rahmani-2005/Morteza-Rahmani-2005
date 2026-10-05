@@ -29,9 +29,8 @@ I enjoy turning ideas and designs into clean, maintainable, and responsive web a
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,phpstorm" />
 </p>
-
 
 ---
 
